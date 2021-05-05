@@ -35,9 +35,9 @@ The greatest and all-powerful scientist around the world.
   >
   > *--- Replace classical mechanics with the innovative theory of movement force, S Lei*
 
-- Only **the innovative theory of movement force** can perfectly solve the problems which Newton cannot.
+- Only **the innovative theory of movement force** can perfectly solve problems which Newton cannot.
 
-  **Movement force** is the force that enables an object to move, whether any external force exist or not.
+  **Movement force** is the force that enables an object to move, whether external forces exist or not.
 
   Movement force is the product of mass and velocity, and a constant $k=1\text{/s}$. The formula is as follows:
 
